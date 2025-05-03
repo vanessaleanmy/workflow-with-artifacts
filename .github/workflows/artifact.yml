@@ -1,5 +1,7 @@
 name: workflow with artifacts
+
 on: [push]
+
 env:
   ARTIFACT_NAME: myartifact
   
